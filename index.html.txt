@@ -1,0 +1,9 @@
+<html>
+<head><style><h1>
+contineous integration
+</hi></style></head>
+<body>
+<h1>this is training</h1>
+</body>
+
+</html>
